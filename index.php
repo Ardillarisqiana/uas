@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-    
 </head>
 
 <body>
@@ -39,7 +38,7 @@
                 <div class="carousel-caption d-none d-md-block">
                     <h5>First slide label</h5>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut quis veniam inventore pariatur maxime nostrum necessitatibus sunt perferendis dolor id?. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet architecto soluta voluptas dicta qui officiis recusandae? Non, culpa ipsa, esse quam quidem recusandae cumque deleniti quasi laborum ex aspernatur, architecto placeat. Ut labore, totam architecto fuga aliquid omnis veritatis aliquam voluptates accusamus odit dolorum beatae fugit nulla obcaecati dolores vero.</p>
-                    <a class="btn btn-primary" href="/create.php" role="button">New Client</a>
+                    <a class="btn btn-primary" href="create.php" role="button">New Client</a>
                 </div>
             </div>
             <div class="carousel-item d-none">
