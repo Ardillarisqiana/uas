@@ -8,8 +8,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
     
 </head>
-    
-</script>
 
 <body>
 
@@ -37,7 +35,7 @@
     <div id="carouselExampleCaptions" class="carousel slide">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/OIP.jpg" class="justify-conten w-100" alt="...">
+                <img src="OIP.jpg" class="justify-conten w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>First slide label</h5>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut quis veniam inventore pariatur maxime nostrum necessitatibus sunt perferendis dolor id?. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet architecto soluta voluptas dicta qui officiis recusandae? Non, culpa ipsa, esse quam quidem recusandae cumque deleniti quasi laborum ex aspernatur, architecto placeat. Ut labore, totam architecto fuga aliquid omnis veritatis aliquam voluptates accusamus odit dolorum beatae fugit nulla obcaecati dolores vero.</p>
